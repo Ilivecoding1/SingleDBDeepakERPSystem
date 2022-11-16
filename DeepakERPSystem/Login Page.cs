@@ -112,7 +112,7 @@ namespace DeepakERPSystem
             else
             {
                
-                myglobalvar.selectedusertype = cboUsertype.SelectedItem.ToString();
+                myglobalvar.selectedusertype = cboUsertype.SelectedItem.ToString(); 
 
                 myglobalvar.selecteduser = txtUsername.Text;
 
